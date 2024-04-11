@@ -1,4 +1,6 @@
-### **URL** : {https://ukathenticate.ccbp.tech/}
+### **URL** : https://ukathenticate.ccbp.tech/
+
+username: rahul    password: rahul@2021
 
 In this project, let's build **Nxt Trendz** app with authentication by applying the concepts we have learned till now.
 
